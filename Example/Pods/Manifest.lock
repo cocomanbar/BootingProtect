@@ -1,0 +1,16 @@
+PODS:
+  - BootingProtecter (0.1.0)
+
+DEPENDENCIES:
+  - BootingProtecter (from `../`)
+
+EXTERNAL SOURCES:
+  BootingProtecter:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  BootingProtecter: b8ebdcc136a7ab0b22ecc012666ba54c74041e2f
+
+PODFILE CHECKSUM: bcd5367b7cf5c7539e5348ca73122a76fbeb268c
+
+COCOAPODS: 1.11.3

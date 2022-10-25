@@ -1,0 +1,6 @@
+framework module BootingProtecter {
+  umbrella header "BootingProtecter-umbrella.h"
+
+  export *
+  module * { export * }
+}
